@@ -1,0 +1,30 @@
+✓ 1. 3D Scene
+✓ 2. Navigable avatar
+✓ 3. 2 collision sounds
+   -Car hit
+   -Wall hit
+✓ 4a. 20 unique sounds
+✓ 4b. 5 dynamic sounds
+   -Car engine
+   -Bartender
+   -Person outside
+   -Waitress setting table
+   -Entrance waiter
+✓ 5. 3 sources that change based on user location
+   -Entrance waiter
+   -Car
+   -Baby
+✓ 6. 2 reverb zones
+✓ 7. 2 ambient sounds
+   -Restaurant ambience
+   -Outside ambience
+✓ 8. 1 sound bank of at least 4 sounds
+   -Kitchen door
+✓ 9. Sound that changes pitch based on input
+   -Car engine, changes based on car speed
+✓ 10. 2 human voices
+   -Tons of these
+✓ 11. Seamless looping and high quality sounds
+
+✓ 12. Map showing locations of all sound sources
+✓ 13. Write-up describing chosen scenario, control hints, URL sources for sounds, who is responsible for what.
